@@ -3,12 +3,13 @@ import styled from "styled-components";
 export const StyledTimeline = styled.div`
   flex: 1;
   width: 100%;
-  padding: 16px;
+  padding: 20px;
   overflow: hidden;
   h2 {
-    font-size: 16px;
-    margin-bottom: 16px;
+    font-size: 20px;
+    margin-bottom: 15px;
     text-transform: capitalize;
+    padding: 5px;
   }
   img {
     aspect-ratio: 16/9;
@@ -24,7 +25,6 @@ export const StyledTimeline = styled.div`
     overflow: hidden;
     padding: 16px;
     div {
-      
       width: calc(100vw - 16px * 4);
       display: grid;
       grid-gap: 16px;
@@ -38,7 +38,6 @@ export const StyledTimeline = styled.div`
         span {
           padding-top: 8px;
           display: block;
-          padding-right: 24px;
           color: ${({ theme }) => theme.textColorBase || "#222222"};
         }
       }
