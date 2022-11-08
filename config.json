@@ -2,6 +2,7 @@
     "name": "Italo Martins",
     "job": "React dev",
     "github": "italomartinns",
+    "bg": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "playlists": {
         "jogos": [
             {
@@ -17,7 +18,7 @@
             {
                 "title":"CASIMIRO JUNTOU OS AMIGOS PARA JOGAR VALORANT E FOI ISSO QUE ACONTECEU | Cortes do Casimito",
                 "url": "https://www.youtube.com/watch?v=_arAK8Z5Ygc",
-                "thumb": "https://i.ytimg.com/an_webp/_arAK8Z5Ygc/mqdefault_6s.webp?du=3000&sqp=CP-Ep5sG&rs=AOn4CLDsUD_qfUoRWktuYSMcWL1YyAcKsg"
+                "thumb": "https://i3.ytimg.com/vi/_arAK8Z5Ygc/maxresdefault.jpg"
             }
         ],
         "Curiosidades": [
@@ -34,7 +35,7 @@
             {
                 "title": "A Era da Internet",
                 "url": "https://www.youtube.com/watch?v=9_SlbSeCrEk",
-                "thumb": "https://i.ytimg.com/an_webp/9_SlbSeCrEk/mqdefault_6s.webp?du=3000&sqp=CMD7ppsG&rs=AOn4CLAnl-vGRcCWNEyssTZWbzJMRrk3eg"
+                "thumb": "https://i3.ytimg.com/vi/9_SlbSeCrEk/maxresdefault.jpg"
             }
         ],
         "front-end": [
