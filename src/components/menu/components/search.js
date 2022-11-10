@@ -35,14 +35,12 @@ const StyledSearch = styled.div`
 `;
 
 export default function Search({valorDoFiltro, setValorDoFiltro}) {
-    // const [valorDaBusca, setValorDaBusca] = React.useState("TESTE");
-
+  
     const valorDaBusca = valorDoFiltro;
     const setValorDaBusca = setValorDoFiltro;
     return (
         <StyledSearch>
-            <input type="text" onChange={(evento) => {
-                setValorDaBusca(evento.target.value);}}/>
+            <input type="text" onChange={(e) => setValorDaBusca(e.target.value)}/>
             <button>🔎</button>
         </StyledSearch>
     )
