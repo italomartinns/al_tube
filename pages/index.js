@@ -6,7 +6,7 @@ import { StyledTimeline } from "../src/components/Timeline";
 
 function HomePage() {
     
-    const [valorDoFiltro, setValorDoFiltro] = React.useState("TESTE");
+    const [valorDoFiltro, setValorDoFiltro] = React.useState("");
 
     return (
         <>
